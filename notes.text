@@ -1,0 +1,3 @@
+button ek inline element hai to wo text align ke sath kaam karta hai
+-> why display block it will take the whole line horizontal space.and give the width 100%
+->margin means kahi se space like margin top like space from the top. 
